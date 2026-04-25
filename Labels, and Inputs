@@ -1,0 +1,6 @@
+<form action="">
+  <label>
+    Full Name:
+    <input type="text" />
+  </label>
+</form>
